@@ -1,0 +1,65 @@
+#border{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(228, 218, 202);
+    margin: 10px auto;
+    align-items: center;
+}
+#face{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color:rgb(218, 172, 157);
+    position: relative;
+    display: inline-block;
+    top: 15px;
+    left: 20px;
+    
+}
+#eye1{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 40%;
+    position: relative;
+    left: 55px;
+    top: 75px;
+}
+#eyebrow1{
+    height: 8px;
+    width: 25px;
+    background-color: black;
+    border-radius: 5px 5px 0 0;
+    position: relative;
+    top: 65px;
+    left: 55px;
+}
+#eyebrow2{
+    height: 8px;
+    width: 25px;
+    background-color: black;
+    border-radius: 5px 5px 0 0;
+    position: relative;
+    top: 32px;
+    left: 170px;
+}
+#eye2{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 40%;
+    position: relative;
+    left: 170px;
+    top: 41px;
+}
+#mouth
+{
+    height: 20px;
+    width: 80px;
+    border-radius: 0 0 12px 12px;
+    background-color: rgb(236, 86, 86);
+    position: relative;
+    top: 115px;
+    left: 85px;
+
+}
